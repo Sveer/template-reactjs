@@ -1,3 +1,4 @@
+// You can require external packages here and it'll download it automatically
 var React = require('react');
 var Heading = require('./components/heading');
 
